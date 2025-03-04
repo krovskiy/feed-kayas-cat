@@ -42,14 +42,6 @@ To install and run the project locally, follow these steps:
 - Create more songs
 - Add a night mode 
 
-## Authors
-
-dima - [everything except the bong sound effect lol](https://dima21.bandcamp.com/)
-
-## Special thanks to 
-
-[kaya](https://tired.moe/)
-
 ## License
 
 AGPL-3.0 license
