@@ -15,13 +15,16 @@ To install and run the project locally, follow these steps:
 1. Clone the repository:
     ```sh
     git clone https://github.com/krovskiy/feed-kayas-cat.git
+    cd feed-kayas-cat
     ```
 2. Install the requirements:
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
+   ```
 3. Run the program:
    ```bash
    python main.py
+   ```
 
 ## Gameplay
 ![alt-text](materials/gameplay.gif)
